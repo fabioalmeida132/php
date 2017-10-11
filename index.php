@@ -1,5 +1,7 @@
 <?php
 
-echo "Olá Mundo 2";
+echo "Olá teste";
+
+echo "teste";
 
 ?>
